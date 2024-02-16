@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 My first Change 1
 My second Change 2
 My third change 3
 
+=======
+My first Change
+My second Change w
+>>>>>>> 20afa7b (my 2nd change step 12)
