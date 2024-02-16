@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello, I am Jay Emmanuel Degamo. yes yes
 
 this is my second change
@@ -5,3 +6,6 @@ this is my second change
 this is my third change
 
 this is my last CHANGEEEEEEEEE :OOOOO
+=======
+hello, I am Jay Emmanuel Degamo. yes yes
+>>>>>>> 50ca635 (Initial commit)
