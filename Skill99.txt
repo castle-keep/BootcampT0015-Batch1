@@ -1,3 +1,4 @@
 Hi! I am the creator of Skill99.com. Typically it is a system where developers can put all their skills the companies around the world will be notified and hired those developers based on their requirements.
 
 1. I made the first changed.
+2. I made the secnd changed.
